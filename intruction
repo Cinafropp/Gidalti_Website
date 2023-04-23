@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "wefwqe"
+git branch -M main
+git remote add origin https://github.com/afranci2/gidality.git
+git push -u origin main
